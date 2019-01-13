@@ -6,7 +6,7 @@ This is ALPHA software. Use at own risk.
 Installation:
 
 Download the python file and configure TCP Port and BT MAC address at the top of the file.
-Make yure you have the BLUEZ stack installed and a BLE device connected, which is able to detect your Yeelight Candela devices.
+Make yure you have the BLUEZ stack installed and a BLE adapter connected, which is able to detect your Yeelight Candela device.
 
 After that you can give it a try like this:
 
