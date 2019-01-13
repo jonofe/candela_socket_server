@@ -24,7 +24,7 @@ off => switch off
 flicker => starts flicker mode
 reconnect => reconnects (usually not needed, as all other commands ensures, that connection is build up)
 
-The Python scripts will send a response like this
+The Python scripts will send a response via the TCP socket like this
 
 Power-Status|Flicker-Status|Intensity
 
